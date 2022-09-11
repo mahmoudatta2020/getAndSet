@@ -1,0 +1,13 @@
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\bin\Debug\netcoreapp3.1\getAndSet.exe
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\bin\Debug\netcoreapp3.1\getAndSet.deps.json
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\bin\Debug\netcoreapp3.1\getAndSet.runtimeconfig.json
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\bin\Debug\netcoreapp3.1\getAndSet.runtimeconfig.dev.json
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\bin\Debug\netcoreapp3.1\getAndSet.dll
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\bin\Debug\netcoreapp3.1\getAndSet.pdb
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\obj\Debug\netcoreapp3.1\getAndSet.csprojAssemblyReference.cache
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\obj\Debug\netcoreapp3.1\getAndSet.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\obj\Debug\netcoreapp3.1\getAndSet.AssemblyInfo.cs
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\obj\Debug\netcoreapp3.1\getAndSet.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\obj\Debug\netcoreapp3.1\getAndSet.dll
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\obj\Debug\netcoreapp3.1\getAndSet.pdb
+C:\Users\Mahmoud Reda\Desktop\.net\getAndSet\getAndSet\obj\Debug\netcoreapp3.1\getAndSet.genruntimeconfig.cache
